@@ -1,5 +1,0 @@
-const logn = document.getElementById("logn") 
-const passd = document.getElementById("passd")
-const pin = document.getElementById("pin") 
-const pin2 = document.getElementById("pin2")
-const form = document.getElementById("form")
